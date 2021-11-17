@@ -1,0 +1,9 @@
+SISTEMA DE PROCESAMIENTO DE DATOS
+
+Grupo: Seres Dinamicos
+Division F, turno noche
+Integrantes: Di Pino Gonzalo, Di Pino Matias, Espinosa Quimey
+Tema: Cerradura
+
+Este es el codigo a tinkercad del desarrollo y funcionamiento del tp2.
+https://www.tinkercad.com/things/k0PxHxFVJzj
